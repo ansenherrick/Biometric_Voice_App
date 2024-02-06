@@ -1,0 +1,16 @@
+[
+    {"text": "Please say out loud the name of everything that appears on-screen", "duration": 5},
+    {"image": "flower.png", "text": "Flower", "duration": 3},
+    {"image": "frog.jpg", "text": "Frog", "duration": 3},
+    {"image": "bike.jpg", "text": "Bike", "duration": 3},
+    {"image": "car.png", "text": "Car", "duration": 3},
+    {"image": "fork.jpg", "text": "Fork", "duration": 3},
+    {"image": "cinnamon.jpg", "text": "Cinnamon", "duration": 3},
+    {"image": "pizza.jpg", "text": "Pizza", "duration": 3},
+    {"image": "broccoli.jpg", "text": "Broccoli", "duration": 3},
+    {"image": "chair.png", "text": "Chair", "duration": 3},
+    {"image": "bear.jpg", "text": "Bear", "duration": 3},
+    {"text": "When the next prompt displays on-screen answer it out loud in 20 seconds", "duration": 5},
+    {"text": "Talk about what you had for breakfast this morning", "duration": 20},
+    {"text": "Thank You!", "duration": 5}
+]
