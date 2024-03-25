@@ -6,7 +6,7 @@
 
 ### Biometric Voice App for Dual Input Recording
 
-This Project was developed By Ansen Herrick for the Computer Engineering Department at Clarkson University 
+This Project was developed By Ansen Herrick for the Computer Engineering Department at Clarkson University. 
 Download the raw exe file here: https://drive.google.com/drive/folders/1QpEKyU-ISvTi3NBDXlIJSYdha-J8p20A?usp=drive_link
 
 ### Background
