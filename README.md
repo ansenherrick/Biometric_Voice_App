@@ -7,6 +7,7 @@
 ### Biometric Voice App for Dual Input Recording
 
 This Project was developed By Ansen Herrick for the Computer Engineering Department at Clarkson University 
+Download the raw exe file here: https://drive.google.com/drive/folders/1QpEKyU-ISvTi3NBDXlIJSYdha-J8p20A?usp=drive_link
 
 ### Background
 At Clarkson University, researchers have developed an innovative approach to biometric identification through voice analysis. By meticulously measuring and analyzing the subtle nuances in the way individuals pronounce and articulate words, this technology can distinguish between different speakers or verify if two voice samples originate from the same person. The application we've developed serves as a critical tool in this research, enabling the collection of voice samples under various conditions. It supports both text-independent and text-dependent voice recording sessions, accommodating the diverse needs of linguistic research and biometric identification.
